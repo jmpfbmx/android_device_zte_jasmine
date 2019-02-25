@@ -1,1 +1,3 @@
-add_lunch_combo lineage_jasmine-userdebug
+add_lunch_combo pa_jasmine-userdebug
+add_lunch_combo pa_jasmine-user
+add_lunch_combo pa_jasmine-eng
